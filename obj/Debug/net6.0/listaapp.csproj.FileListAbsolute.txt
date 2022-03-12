@@ -1,0 +1,15 @@
+/home/alejandro/Escritorio/CURSOS VACACIONALES/C#/listaapp/bin/Debug/net6.0/listaapp
+/home/alejandro/Escritorio/CURSOS VACACIONALES/C#/listaapp/bin/Debug/net6.0/listaapp.deps.json
+/home/alejandro/Escritorio/CURSOS VACACIONALES/C#/listaapp/bin/Debug/net6.0/listaapp.runtimeconfig.json
+/home/alejandro/Escritorio/CURSOS VACACIONALES/C#/listaapp/bin/Debug/net6.0/listaapp.dll
+/home/alejandro/Escritorio/CURSOS VACACIONALES/C#/listaapp/bin/Debug/net6.0/listaapp.pdb
+/home/alejandro/Escritorio/CURSOS VACACIONALES/C#/listaapp/obj/Debug/net6.0/listaapp.csproj.AssemblyReference.cache
+/home/alejandro/Escritorio/CURSOS VACACIONALES/C#/listaapp/obj/Debug/net6.0/listaapp.GeneratedMSBuildEditorConfig.editorconfig
+/home/alejandro/Escritorio/CURSOS VACACIONALES/C#/listaapp/obj/Debug/net6.0/listaapp.AssemblyInfoInputs.cache
+/home/alejandro/Escritorio/CURSOS VACACIONALES/C#/listaapp/obj/Debug/net6.0/listaapp.AssemblyInfo.cs
+/home/alejandro/Escritorio/CURSOS VACACIONALES/C#/listaapp/obj/Debug/net6.0/listaapp.csproj.CoreCompileInputs.cache
+/home/alejandro/Escritorio/CURSOS VACACIONALES/C#/listaapp/obj/Debug/net6.0/listaapp.dll
+/home/alejandro/Escritorio/CURSOS VACACIONALES/C#/listaapp/obj/Debug/net6.0/refint/listaapp.dll
+/home/alejandro/Escritorio/CURSOS VACACIONALES/C#/listaapp/obj/Debug/net6.0/listaapp.pdb
+/home/alejandro/Escritorio/CURSOS VACACIONALES/C#/listaapp/obj/Debug/net6.0/listaapp.genruntimeconfig.cache
+/home/alejandro/Escritorio/CURSOS VACACIONALES/C#/listaapp/obj/Debug/net6.0/ref/listaapp.dll
